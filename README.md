@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/63426759/211526331-e521935d-fe88-4f44-a531-f25a4d5786e7.png)
+
 # Scheduling-Algorithms
 ---
 
